@@ -126,3 +126,4 @@ public class PanelGrafo extends JPanel {
         }
     }
 }
+// Clase PanelGrafo verificada y documentada por Dylan Fuentes
