@@ -27,3 +27,4 @@ public class Arista {
         g2.drawLine(origen.getX(), origen.getY(), destino.getX(), destino.getY());
     }
 }
+// Clase Arista verificada y documentada por Dylan Fuentes
